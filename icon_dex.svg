@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="100" height="100" fill="#F9AB00"/>
+<rect x="10" y="110" width="9.99999" height="100" transform="rotate(180 10 110)" fill="#DF7D00"/>
+<rect x="10" y="120" width="10" height="100" transform="rotate(-90 10 120)" fill="#212121"/>
+<rect x="20" y="100" width="10" height="10" transform="rotate(-90 20 100)" fill="#212121"/>
+<rect width="10" height="10" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 100 100)" fill="#212121"/>
+<rect x="20" y="20" width="10" height="10" fill="#212121"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 100 20)" fill="#212121"/>
+<rect width="10" height="100" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 110 10)" fill="#DF7D00"/>
+<rect x="110" y="10" width="10" height="100" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 33H55V38H50V43H45H40V48H35V53V58H40V53H45H50H55V48H50V43H55H60H65H70V38H65V33H60ZM65 88H60H55V83H50V78H55H60H65H70V83H65V88ZM70 78V73H65V68H70H75H80V63H85V68V73H80V78H75H70ZM75 43H80H85V48V53H80V58H75H70V63H65H60V68H55H50V73H45V78H40H35V73V68H40V63H45H50V58H55H60V53H65H70V48H75V43Z" fill="#FCFCFC"/>
+</svg>

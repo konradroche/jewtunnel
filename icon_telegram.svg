@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="100" height="100" fill="#F9AB00"/>
+<rect x="10" y="110" width="9.99999" height="100" transform="rotate(180 10 110)" fill="#DF7D00"/>
+<rect x="10" y="120" width="10" height="100" transform="rotate(-90 10 120)" fill="#212121"/>
+<rect x="20" y="100" width="10" height="10" transform="rotate(-90 20 100)" fill="#212121"/>
+<rect width="10" height="10" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 100 100)" fill="#212121"/>
+<rect x="20" y="20" width="10" height="10" fill="#212121"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 100 20)" fill="#212121"/>
+<rect width="10" height="100" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 110 10)" fill="#DF7D00"/>
+<rect x="110" y="10" width="10" height="100" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M85 38H80H75V43H70H65V48H60H55V53H50H45V58H40H35V63H30V68H35H40H45H50H55V73H60V78H65V83H70V88H75V83H80V78V73V68V63V58H85V53V48V43V38ZM60 63V68H55V63H60ZM65 58V63H60V58H65ZM65 58V53H70V58H65Z" fill="white"/>
+</svg>
